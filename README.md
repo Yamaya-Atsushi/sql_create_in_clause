@@ -1,0 +1,2 @@
+# sql_create_in_-clause
+SQLのIN句を生成するためのプロダクト管理リポジトリ
